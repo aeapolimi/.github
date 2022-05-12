@@ -13,7 +13,10 @@
 
 This is the official page of Politecnico di Milano Automation Engineering Association.
 
-Eat
-Sleep
-Control
-Repeat
+:pizza: Eat
+
+:zzz:Sleep
+
+:robot: Control
+
+:leftwards_arrow_with_hook: Repeat
